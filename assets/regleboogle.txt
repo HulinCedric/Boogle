@@ -1,0 +1,10 @@
+  -- REGLES DU BOOGLE --
+
+
+ 1) Trouver le plus de mots d'au moins 3 lettres sur la grille.
+
+ 2) Chaque lettre ne peut etre utilisee qu'une fois pour un meme mot.
+
+ 3) Pour qu'un mot soit valide il doit exister et etre forme de lettres qui se touchent.
+
+ 
